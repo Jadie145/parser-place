@@ -14,7 +14,7 @@ Welcome to **Parser Place**, a simple HTML-based tool designed for educational p
 To get started with Parser Place, simply clone the repository and open the `index.html` file in your web browser:
 
 ```bash
-git clone https://github.com/yourusername/parser-place.git
+git clone https://github.com/jadie145/parser-place.git
 cd parser-place
 open index.html
 ```
@@ -27,12 +27,10 @@ open index.html
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Inspired by various compiler design resources and educational materials.
 
 ---
 
-Feel free to explore and learn more about parsing techniques with Parser Place!
+Feel free to explore and improve this project by forking it Parser Place! ❤️
