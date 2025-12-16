@@ -2,6 +2,8 @@
 
 Welcome to **Parser Place**, a simple HTML-based tool designed for educational purposes in compiler design. This project provides various parser implementations and visualizations to help users understand the concepts of parsing in programming languages.
 
+### 🚀 **Website Live:** [https://jadie145.github.io/parser-place/](https://jadie145.github.io/parser-place/)
+
 ## Features
 - <img src="logos/LL1.png" alt="LL(1) Logo" height="20"/> **LL(1) Parser**: Generate LL(1) parsing tables and visualize the parsing process.
 - <img src="logos/LR0.png" alt="LR(0) Logo" height="20"/> **LR(0) Parser**: Visualize and generate LR(0) parsing tables.
@@ -34,3 +36,4 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ---
 
 Feel free to explore and improve this project by forking it Parser Place! ❤️
+
